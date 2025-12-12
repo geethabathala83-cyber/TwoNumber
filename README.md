@@ -1,0 +1,2 @@
+# TwoNumber
+equalornot, LCM, GCD
